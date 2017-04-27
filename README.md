@@ -24,5 +24,5 @@ Software educativo orientado a los niños estudiantes de primaria. Con el fin de
 
 ### Desarrollo
 
-	#### [Jclic](http://clic.xtec.cat/es/jclic/)
-	#### [Homepage](http://www.pocketmine.net/)
+#### [Jclic](http://clic.xtec.cat/es/jclic/)
+#### [Homepage](http://www.pocketmine.net/)
