@@ -10,21 +10,21 @@
 
 Software educativo orientado a los niños estudiantes de primaria. Con el fin de **Educar** sobre la importancia que tiene el *AGUA*
 
-### Programas
+### Contenido
 	
 	* El Ciclo del Agua
-		* Fase 1: Evaporacion
-		* Fase 2: Condensacion
-		* Fase 3: Precipitacion
-		* Fase 4: Filtracion
-		* Fase 5: Transpiracion
-		* Fase 6: Transporte
+		* Fase 1: *Evaporacion*
+		* Fase 2: *Condensacion*
+		* Fase 3: *Precipitacion*
+		* Fase 4: *Filtracion*
+		* Fase 5: *Transpiracion*
+		* Fase 6: *Transporte*
 	
 	*Plomeritos
 
 ### Desarrollo
 
-#### [Gdevelop - IDE](http://clic.xtec.cat/es/jclic/)
+#### [Gdevelop - IDE](http://compilgames.net/main-es.html)
 #### [Guia de Inicio](http://wiki.compilgames.net/doku.php/es/gdevelop/documentation/manual/edit_getstart)
 #### [Wiki Gdevelop](http://wiki.compilgames.net/doku.php)
 #### [Tutoriales](http://wiki.compilgames.net/doku.php/es/gdevelop/tutorials)
