@@ -24,4 +24,8 @@ Software educativo orientado a los niños estudiantes de primaria. Con el fin de
 
 ### Desarrollo
 
-#### [Jclic - IDE](http://clic.xtec.cat/es/jclic/)
+#### [Gdevelop - IDE](http://clic.xtec.cat/es/jclic/)
+#### [Guia de Inicio](http://wiki.compilgames.net/doku.php/es/gdevelop/documentation/manual/edit_getstart)
+#### [Wiki Gdevelop](http://wiki.compilgames.net/doku.php)
+#### [Tutoriales](http://wiki.compilgames.net/doku.php/es/gdevelop/tutorials)
+#### [Foros](http://forum.compilgames.net/)
