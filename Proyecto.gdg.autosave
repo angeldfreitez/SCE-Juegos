@@ -11619,14 +11619,293 @@
                             <subActions />
                         </action>
                     </actions>
-                    <events>
-                        <event disabled="false" folded="false">
-                            <type>BuiltinCommonInstructions::Standard</type>
-                            <conditions />
-                            <actions />
-                            <events />
-                        </event>
-                    </events>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>100</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>0</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>200</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>42</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>1100</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>220</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>300</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>63</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>700</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>150</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>500</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>115</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>400</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>94</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>600</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>130</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=&gt;</parameter>
+                                <parameter>1200</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>255</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>900</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>170</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
+                </event>
+                <event disabled="false" folded="false">
+                    <type>BuiltinCommonInstructions::Standard</type>
+                    <conditions>
+                        <condition>
+                            <type inverted="false" value="VarScene" />
+                            <parameters>
+                                <parameter>Score</parameter>
+                                <parameter>=</parameter>
+                                <parameter>1000</parameter>
+                            </parameters>
+                            <subConditions />
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action>
+                            <type inverted="false" value="Opacity" />
+                            <parameters>
+                                <parameter>Cloud</parameter>
+                                <parameter>=</parameter>
+                                <parameter>190</parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                    </actions>
+                    <events />
                 </event>
             </events>
         </externalEvents>
@@ -11742,292 +12021,6 @@
                             <parameters>
                                 <parameter>Coin</parameter>
                                 <parameter>0</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>100</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>0</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>200</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>42</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>300</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>63</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>400</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>94</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>500</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>115</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>600</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>130</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>700</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>150</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>900</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>170</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>1000</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>190</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>&lt;=</parameter>
-                                <parameter>1100</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>220</parameter>
-                            </parameters>
-                            <subActions />
-                        </action>
-                    </actions>
-                    <events />
-                </event>
-                <event disabled="false" folded="false">
-                    <type>BuiltinCommonInstructions::Standard</type>
-                    <conditions>
-                        <condition>
-                            <type inverted="false" value="VarScene" />
-                            <parameters>
-                                <parameter>Score</parameter>
-                                <parameter>=&gt;</parameter>
-                                <parameter>1200</parameter>
-                            </parameters>
-                            <subConditions />
-                        </condition>
-                    </conditions>
-                    <actions>
-                        <action>
-                            <type inverted="false" value="Opacity" />
-                            <parameters>
-                                <parameter>Cloud</parameter>
-                                <parameter>=</parameter>
-                                <parameter>255</parameter>
                             </parameters>
                             <subActions />
                         </action>
