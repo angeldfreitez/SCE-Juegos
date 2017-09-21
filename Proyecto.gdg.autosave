@@ -194,7 +194,7 @@
     <variables />
     <layouts>
         <layout b="247" disableInputWhenNotFocused="true" mangledName="Evaporacion" name="Evaporacion" oglFOV="90.000000" oglZFar="500.000000" oglZNear="1.000000" r="208" standardSortMethod="false" stopSoundsOnStartup="true" title="" v="244">
-            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="1.000000" />
+            <uiSettings grid="false" gridB="255" gridG="180" gridHeight="32" gridOffsetX="0" gridOffsetY="0" gridR="158" gridWidth="32" snap="true" windowMask="false" zoomFactor="0.250000" />
             <objectsGroups>
                 <group name="Enemy">
                     <objects>
@@ -398,7 +398,7 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="151.784729" y="182.015564" zOrder="1">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="129.784729" y="196.015579" zOrder="1">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
@@ -660,7 +660,62 @@
                     <stringProperties />
                     <initialVariables />
                 </instance>
-                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="402.000000" y="130.000000" zOrder="21">
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="348.000000" y="278.000000" zOrder="21">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="494.000000" y="112.000015" zOrder="22">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="178.000000" y="80.000023" zOrder="23">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="940.000000" y="134.000031" zOrder="24">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="995.000000" y="434.000031" zOrder="25">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="1841.000000" y="-37.999981" zOrder="26">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="1205.000000" y="-16.000002" zOrder="27">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="2445.000000" y="-38.000000" zOrder="28">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="2377.000000" y="274.000000" zOrder="29">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="2975.000000" y="-124.000000" zOrder="30">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="2751.000000" y="64.000023" zOrder="31">
+                    <numberProperties />
+                    <stringProperties />
+                    <initialVariables />
+                </instance>
+                <instance angle="0.000000" customSize="false" height="0.000000" layer="" locked="false" name="Cloud" width="0.000000" x="3351.000000" y="260.000031" zOrder="32">
                     <numberProperties />
                     <stringProperties />
                     <initialVariables />
