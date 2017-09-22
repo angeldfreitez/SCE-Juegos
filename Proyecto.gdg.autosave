@@ -4973,7 +4973,7 @@
                 <object name="Coin" type="Sprite">
                     <variables />
                     <behaviors>
-                        <behavior acceleration="1500.000000" canGrabPlatforms="false" deceleration="1500.000000" gravity="600.000000" ignoreDefaultControls="true" jumpSpeed="600.000000" maxFallingSpeed="200.000000" maxSpeed="250.000000" name="PlatformerObject" slopeMaxAngle="60.000000" type="PlatformBehavior::PlatformerObjectBehavior" xGrabTolerance="10.000000" yGrabOffset="0.000000" />
+                        <behavior acceleration="1500.000000" canGrabPlatforms="false" deceleration="1500.000000" gravity="600.000000" ignoreDefaultControls="true" jumpSpeed="600.000000" maxFallingSpeed="150.000000" maxSpeed="250.000000" name="PlatformerObject" slopeMaxAngle="60.000000" type="PlatformBehavior::PlatformerObjectBehavior" xGrabTolerance="10.000000" yGrabOffset="0.000000" />
                     </behaviors>
                     <animations>
                         <animation name="" useMultipleDirections="false">
@@ -5193,8 +5193,8 @@
                                     <type inverted="false" value="NbObjet" />
                                     <parameters>
                                         <parameter>Coin</parameter>
-                                        <parameter>&lt;</parameter>
-                                        <parameter>2</parameter>
+                                        <parameter>=</parameter>
+                                        <parameter>1</parameter>
                                     </parameters>
                                     <subConditions />
                                 </condition>
@@ -5209,7 +5209,19 @@
                                 <parameter>Coin</parameter>
                                 <parameter>&quot;Coin&quot;</parameter>
                                 <parameter>350</parameter>
-                                <parameter>40</parameter>
+                                <parameter>-1000</parameter>
+                                <parameter></parameter>
+                            </parameters>
+                            <subActions />
+                        </action>
+                        <action>
+                            <type inverted="false" value="CreateByName" />
+                            <parameters>
+                                <parameter></parameter>
+                                <parameter>Coin</parameter>
+                                <parameter>&quot;Coin&quot;</parameter>
+                                <parameter>250</parameter>
+                                <parameter>-100</parameter>
                                 <parameter></parameter>
                             </parameters>
                             <subActions />
