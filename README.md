@@ -13,12 +13,12 @@ Software educativo orientado a los niños estudiantes de primaria. Con el fin de
 ### Contenido
 	
 	* El Ciclo del Agua
-		* Fase 1: *Evaporacion* (Listo, falta Sprite de Nubes que se Distingan mas)
-		* Fase 2: *Condensacion* 
-		* Fase 3: *Precipitacion* (Casi terminado, falta cronometrizar y sicronizar la caida de las gotitas)
-		* Fase 4: *Filtracion*
-		* Fase 5: *Transpiracion*
-		* Fase 6: *Transporte*
+		* Fase 1: *Evaporacion* 			(Listo: ParteFuncional)
+		* Fase 2: *Condensacion* 			(Listo: ParteFuncional)
+		* Fase 3: *Precipitacion* 			(Listo: ParteFuncional)
+		* Fase 4: *Filtracion* 				(Listo: ParteFuncional)
+		* Fase 5: *Transpiracion* 
+		* Fase 6: *Transporte* 				(Listo: ParteFuncional)
 	
 	*Plomeritos
 
